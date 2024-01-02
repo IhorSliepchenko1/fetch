@@ -1,0 +1,25 @@
+th,
+td,
+table {
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align: center;
+  padding: 10px;
+}
+
+table {
+  margin-inline: auto;
+  width: 1000px;
+}
+
+img {
+  width: 70px;
+  height: 70px;
+}
+
+thead{
+    background-color: rgb(97, 97, 97);
+    color: white;
+    border: 3px solid black;
+    cursor: pointer;
+}
